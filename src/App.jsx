@@ -12,6 +12,7 @@ import Radiodropedown from "./radiodropdown";
 import TAbleloop from "./tableloop";
 import College from "./college";
 import USEEFFECT from "./useEFFFFECT";
+import UserProfile from "./userprofile";
 // Javascript Syntax Extension
 
 const name= "Toney";
@@ -157,6 +158,9 @@ function App() {
       }
 
       <USEEFFECT />
+      <hr />
+      <hr />
+      <UserProfile />
 
       
 
