@@ -1,0 +1,27 @@
+/* External CSS */
+.heading {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    border: 2px solid black;
+    padding: 10px;
+    width: 250px;
+    margin-top: 20px;
+    border-radius: 10px;
+    background-color: lightgray;
+  }
+  
+  .heading img {
+    width: 80px;
+    border-radius: 50%;
+  }
+  
+  .heading h3 {
+    margin: 0;
+    color: blue;
+  }
+  
+  .heading p {
+    margin: 0;
+    color: gray;
+  }

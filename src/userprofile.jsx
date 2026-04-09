@@ -1,4 +1,5 @@
 import { useState } from "react";
+import "./userprofile.css";
 
 function UserProfile() {
 
@@ -102,6 +103,16 @@ function UserProfile() {
                 </div>
             </div>
         {/* // Inline styling */}
+
+{/* external css */}
+        <div className="heading">
+
+                    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnSA1zygA3rubv-VK0DrVcQ02Po79kJhXo_A&s" alt="" />
+                    <div>
+                        <h3>Himanshu khare</h3>
+                        <p>Software Engineer</p>
+                    </div>
+                </div>
         </>
     )
 }
