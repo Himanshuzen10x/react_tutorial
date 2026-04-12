@@ -4,7 +4,9 @@
 
   /* CSS Modules */
   .card {
-    border: 2px solid black;
+    border: 3px solid black;
     padding: 10px;
-    width: 200px;
+    width: 250px;
+    
+
   }
