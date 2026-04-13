@@ -23,4 +23,4 @@ function USEEFFECT(){
     )
 }
 
-export default USEEFFECT
+export default USEEFFECT;
